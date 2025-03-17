@@ -1,3 +1,4 @@
+En tant qu'utlisateur je veux un design coherent  simple et attrayant
 1. Conformité aux maquettes
 Les conceptions respectent les maquettes approuvées et les spécifications de design.
 2. Tests de convivialité
