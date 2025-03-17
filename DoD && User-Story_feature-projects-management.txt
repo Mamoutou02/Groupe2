@@ -1,0 +1,72 @@
+Définition de la fonctionnalité 'Création et gestion des projets' dans CollabDev
+
+Description de la fonctionnalité :
+
+La fonctionnalité de création et gestion des projets permet à l'utilisateur de créer de 
+nouveaux projets, de les organiser et de les suivre tout au long de leur avancement. 
+
+Critères d'acceptation :
+
+1. Création d'un nouveau projet :
+- L'utilisateur peut créer un nouveau projet en fournissant un nom, une description et d'autres 
+informations pertinentes.
+
+2. Gestion des tâches et étapes du projet :
+- L'utilisateur peut ajouter des tâches, des sous-tâches et des étapes au projet.
+- L'utilisateur peut organiser les tâches et les étapes du projet en fonction de leur ordre 
+d'importance ou de leur relation de dépendance.
+
+3. Visualisation et suivi de l'avancement du projet :
+- L'utilisateur peut suivre le pourcentage d'avancement du projet et recevoir des notifications.
+
+4. Documentation du projet :
+- L'utilisateur peut téléverser et partager des documents, fichiers et notes liés au projet avec les 
+membres de l'équipe.
+
+5. Communication et collaboration :
+- L'utilisateur peut échanger des messages, des commentaires et des mises à jour avec les membres 
+de l'équipe directement dans l'application.
+- L'utilisateur peut organiser des réunions virtuelles, des revues de projet et des sessions de 
+brainstorming pour favoriser la collaboration et la communication.
+
+
+
+
+
+User_Story de la fonctionnalité 'Création et gestion des projets' dans CollabDev
+
+
+En tant qu'utilisateur d'une application de gestion de projets, je souhaite pouvoir créer de 
+nouveaux projets, les organiser et les suivre tout au long de leur avancement, afin de garantir 
+une bonne organisation et un suivi efficace des différentes tâches et étapes de mes projets.
+
+Critères d'acceptation :
+1. En tant qu'utilisateur, je veux pouvoir créer un nouveau projet en spécifiant un nom, 
+une description et d'autres informations pertinentes.
+
+2. En tant qu'utilisateur, je veux pouvoir ajouter des membres à mon projet et définir 
+leurs rôles et autorisations.
+
+3. En tant qu'utilisateur, je veux pouvoir ajouter des tâches, des sous-tâches et des étapes 
+à mon projet, en spécifiant les dates de début et de fin, les responsables et les priorités.
+
+4. En tant qu'utilisateur, je veux pouvoir organiser les tâches et les étapes du projet en 
+fonction de leur ordre d'importance ou de leur relation de dépendance.
+
+5. En tant qu'utilisateur, je veux pouvoir visualiser un tableau de bord ou une liste des 
+tâches en cours, terminées et en retard.
+
+6. En tant qu'utilisateur, je veux pouvoir suivre le pourcentage d'avancement du projet et 
+recevoir des notifications en cas de retard ou de dépassement des délais.
+
+7. En tant qu'utilisateur, je veux pouvoir attribuer des ressources (humaines, matérielles, financières) 
+à chaque tâche ou étape du projet.
+
+8. En tant qu'utilisateur, je veux pouvoir téléverser et partager des documents, fichiers et notes 
+liés au projet avec les membres de l'équipe.
+
+9. En tant qu'utilisateur, je veux pouvoir échanger des messages, des commentaires et des mises à 
+jour avec les membres de l'équipe directement dans l'application.
+
+10. En tant qu'utilisateur, je veux pouvoir organiser des réunions virtuelles, des revues de projet et 
+des sessions de brainstorming pour favoriser la collaboration et la communication avec mon équipe.
