@@ -18,7 +18,9 @@ Les aspects de performance UI sont évalués (temps de chargement, réactivité 
 9. Validation avec stakeholders
 Validation et acceptation de l'interface par les parties prenantes concernées avant le déploiement.
 10. Déploiement en environnement de test
-L'interface est déployée et testée dans un environnement de test pour vérification avant la mise en productio=======
+L'interface est déployée et testée dans un environnement de test pour vérification avant la mise en production
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 Pour pouvoir crée compte l'utilisateur doit renseigner les champs suivants :
 -Nom,
 -Prénom,
