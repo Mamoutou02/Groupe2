@@ -1,0 +1,52 @@
+Fonctionnalité 6 : Attribution des rôles et niveaux
+
+User Story
+
+En tant qu'administrateur de CollabDev,
+Je veux pouvoir attribuer des rôles et des niveaux aux utilisateurs,
+Afin de gérer leurs permissions et accès aux fonctionnalités de l'application.
+
+Scénarios
+
+Scénario 1 : Attribution d'un rôle
+- Étant donné que je suis connecté en tant qu'administrateur,
+- Quand je sélectionne un utilisateur dans la liste des membres,
+- Et que je choisis un rôle (ex : Débutant, Intermédiaire, Avancé, Admin),
+- Alors le rôle est attribué à l'utilisateur,
+- Et les permissions correspondantes sont appliquées (ex : accès à certains projets ou fonctionnalités).
+
+Scénario 2 : Attribution d'un niveau
+- Étant donné que je suis connecté en tant qu'administrateur,
+- Quand je sélectionne un utilisateur dans la liste des membres,
+- Et que je choisis un niveau (ex : Novice, Confirmé, Expert),
+- Alors le niveau est attribué à l'utilisateur,
+- Et les fonctionnalités correspondantes sont débloquées (ex : accès à des projets plus complexes).
+
+ Scénario 3 : Modification des rôles et niveaux
+- Étant donné que je suis connecté en tant qu'administrateur,
+- Quand je modifie le rôle ou le niveau d'un utilisateur,
+- Alors les changements sont enregistrés dans la base de données,
+- Et les permissions et fonctionnalités sont mises à jour en temps réel.
+
+ Definition of Done (DoD)
+
+ Fonctionnalités
+- [ ] L'administrateur peut attribuer un rôle (Débutant, Intermédiaire, Avancé, Admin) à un utilisateur.
+- [ ] L'administrateur peut attribuer un niveau (Novice, Confirmé, Expert) à un utilisateur.
+- [ ] Les rôles et niveaux sont enregistrés dans la base de données.
+- [ ] Les permissions sont appliquées en fonction du rôle (ex : un Admin peut gérer les projets, un Débutant ne peut que participer).
+- [ ] Les fonctionnalités sont débloquées en fonction du niveau (ex : un Expert peut accéder à des projets complexes).
+
+ Tests
+- [ ] Des tests unitaires sont écrits pour valider la logique d'attribution des rôles et niveaux.
+- [ ] Des tests d'intégration sont réalisés pour vérifier l'interaction avec la base de données.
+- [ ] Des tests de bout en bout (end-to-end) sont effectués pour valider l'interface utilisateur.
+
+ Documentation
+- [ ] La documentation technique est mise à jour pour inclure la nouvelle fonctionnalité.
+- [ ] Un guide utilisateur est rédigé pour expliquer comment attribuer des rôles et niveaux.
+
+Qualité
+- [ ] Le code est revu par au moins un autre développeur.
+- [ ] Aucun bug critique n'est présent dans la fonctionnalité.
+- [ ] La fonctionnalité est déployée dans un environnement de test et validée.
