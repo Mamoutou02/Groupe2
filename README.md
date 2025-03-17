@@ -46,7 +46,7 @@ Dans un monde où la collaboration est essentielle, CollabDev offre une platefor
 
   Technologies utilisées
 
--  Frontend  : React.js, Tailwind CSS
+-  Frontend  : React.js, 
 -  Backend  : Node.js, Express
 -  Base de données  : MongoDB
 -  Authentification  : JWT (JSON Web Tokens)
@@ -57,19 +57,19 @@ Dans un monde où la collaboration est essentielle, CollabDev offre une platefor
   Installation
 
 1. Clonez le dépôt :
-   ```bash
+   
    git clone https://github.com/votre-utilisateur/CollabDev.git
-   ```
-2. Installez les dépendances :
-   ```bash
+   
+3. Installez les dépendances :
+4. 
    cd CollabDev
    npm install
-   ```
-3. Configurez les variables d'environnement :
+  
+5. Configurez les variables d'environnement :
    - Créez un fichier `.env` à la racine du projet et ajoutez les variables nécessaires (ex : `MONGO_URI`, `JWT_SECRET`).
 
-4. Lancez l'application :
-   ```bash
+6. Lancez l'application :
+ 
    npm start
    ```
 
