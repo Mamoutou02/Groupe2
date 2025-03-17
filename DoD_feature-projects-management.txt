@@ -1,0 +1,39 @@
+Définition de la fonctionnalité 'Création et gestion des projets' dans CollabDev
+
+Description de la fonctionnalité :
+
+La fonctionnalité de création et gestion des projets permet à l'utilisateur de créer de 
+nouveaux projets, de les organiser et de les suivre tout au long de leur avancement. 
+
+Critères d'acceptation :
+
+1. Création d'un nouveau projet :
+- L'utilisateur peut créer un nouveau projet en fournissant un nom, une description et d'autres 
+informations pertinentes.
+- L'utilisateur peut ajouter des membres à son projet et définir leurs rôles et autorisations.
+
+2. Gestion des tâches et étapes du projet :
+- L'utilisateur peut ajouter des tâches, des sous-tâches et des étapes au projet, en spécifiant les 
+dates de début et de fin, les responsables et les priorités.
+- L'utilisateur peut organiser les tâches et les étapes du projet en fonction de leur ordre 
+d'importance ou de leur relation de dépendance.
+
+3. Visualisation et suivi de l'avancement du projet :
+- L'utilisateur peut visualiser un tableau de bord ou une liste des tâches en cours, terminées et en 
+retard.
+- L'utilisateur peut suivre le pourcentage d'avancement du projet et recevoir des notifications en 
+cas de retard ou de dépassement des délais.
+
+4. Gestion des ressources et des documents du projet :
+- L'utilisateur peut attribuer des ressources (humaines, matérielles, financières) à chaque tâche ou 
+étape du projet.
+- L'utilisateur peut téléverser et partager des documents, fichiers et notes liés au projet avec les 
+membres de l'équipe.
+
+5. Communication et collaboration :
+- L'utilisateur peut échanger des messages, des commentaires et des mises à jour avec les membres 
+de l'équipe directement dans l'application.
+- L'utilisateur peut organiser des réunions virtuelles, des revues de projet et des sessions de 
+brainstorming pour favoriser la collaboration et la communication.
+
+
