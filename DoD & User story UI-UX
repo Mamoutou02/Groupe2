@@ -8,7 +8,7 @@ L'application respecte les normes d'accessibilité (par exemple, WCAG 2.1) pour 
 4. Responsive Design
 L'interface fonctionne correctement sur une variété d'appareils et de résolutions d'écran (mobiles, tablettes, ordinateurs de bureau).
 5. Retours utilisateurs intégrés
-Les retours des utilisateurs sont pris en compte et les ajustements nécessaires ont été faits avant la finalisation.
+Les retours des utilisateurs sont pris en compte et les ajustements nécessaires seront faits avant la finalisation.
 6. Documentation
 La documentation des composants UI/UX est mise à jour, y compris les styles, les comportements et les éléments interactifs.
 7. Tests fonctionnels et de régression
