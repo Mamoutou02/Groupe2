@@ -1,0 +1,39 @@
+ user story
+
+En tant que utilisateur,
+je veux gagner des pièces en accomplissant des actions spécifiques,
+afin de pouvoir les utiliser pour débloquer des avantages ou des récompenses.
+
+1° L'utilisateur gagne des pièces lorsqu'il complète une action spécifique (ex : terminer un niveau, inviter un ami, etc.).
+
+2° Le nombre de pièces gagnées est affiché en temps réel dans l'interface utilisateur.
+
+3° Les pièces peuvent être dépensées dans une boutique pour débloquer des récompenses (ex : skins, bonus, etc.).
+
+4° Le solde de pièces est sauvegardé et persiste entre les sessions.
+
+5° Un historique des gains et des dépenses de pièces est disponible pour l'utilisateur.
+
+Definition of Done (DoD)
+
+1° L'utilisateur peut gagner des pièces en accomplissant des actions spécifiques.
+
+2° L'interface affiche correctement le solde de pièces.
+
+3° La boutique permet d'utiliser les pièces pour acheter des récompenses.
+
+4° Les données des pièces sont sauvegardées et persistantes.
+
+5° Un historique des transactions (gains et dépenses de pièces) est accessible à l'utilisateur.
+
+L'historique inclut les détails suivants pour chaque transaction :
+
+Date et heure de la transaction.
+
+Type de transaction (gain ou dépense).
+
+Montant de pièces gagnées ou dépensées.
+
+Description de la transaction (ex : "Niveau 3 terminé", "Achat d'un skin").
+
+L'historique est trié par ordre chronologique (du plus récent au plus ancien).
