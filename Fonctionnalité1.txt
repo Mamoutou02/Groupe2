@@ -1,0 +1,23 @@
+User Story & Definition of Done (DoD) pour la fonctionnalité "Initialisation du projet et setup du repo GitHub"
+User Story - Initialisation du projet et setup du repo GitHub
+En tant que
+Développeur ou administrateur du projet
+Je veux
+Initialiser un projet avec une structure claire et un dépôt GitHub bien configuré
+Afin de
+Assurer une base propre pour le développement collaboratif
+Permettre à l’équipe de travailler efficacement avec un suivi des versions
+Garantir une bonne gestion du code source dès le départ
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Definition of Done (DoD)
+Un dépôt GitHub public est créé pour le projet
+Un README.md est ajouté avec une brève description du projet
+Un .gitignore adapté au projet est en place pour exclure les fichiers inutiles
+La branche principale est configurée et protégée contre les pushs directs
+Les contributeurs nécessaires sont ajoutés avec les bonnes permissions sur GitHub
+Un système de branches est défini
+Une première commit propre est effectué avec la structure initiale du projet
+L’environnement de développement est documenté
+

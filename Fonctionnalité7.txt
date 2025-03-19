@@ -1,0 +1,14 @@
+ user story
+
+En tant que utilisateur,
+je veux gagner des pièces en accomplissant des actions spécifiques,
+afin de pouvoir les utiliser pour débloquer des avantages ou des récompenses.
+
+Definition of Done (DoD)
+
+1° L'utilisateur gagne des pièces lorsqu'il fait une contribution
+
+2° Le nombre de pièces gagnées est affiché en temps réel dans l'interface utilisateur.
+
+3° L'utilisateur peut dépenser ces pièce pour adhérer a d'autre projet 
+

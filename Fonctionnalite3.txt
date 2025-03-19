@@ -1,0 +1,13 @@
+User Story de l'UI/UX  l'application mobile
+US1: En tant qu'utilisateur je veux une interface intuitive, claire et facile d'utilisation 
+
+Definition of done (Dod)  de mes user story
+-Le design de l'application mobile doit être conforme aux maquettes UI/UX fournies 
+-L'interface doit être responsive et fonctionner correctement sur différentes tailles d'écran, y compris les tablettes et les smartphones
+-La charte graphique de l'application doit être respecter
+-Tous les éléments interactifs doivent être clairement identifiables avec des états visuels appropriés pour les interactions
+-L'architecture de l'application doit permettre aux utilisateurs de trouver facilement les fonctionnalités principales 
+-Lors de l'interaction avec l'application l'utilisateur doit recevoir  des notifications claires 
+Des tests utilisateurs (interne et externe) doivent être réaliser avec des groupes cibles (développeurs débutants, intermédiaires, avancés) pour valider l'ergonomie et la facilité d'utilisation de l'application.
+Tous les bugs ou problèmes signalés lors des tests UI/UX doivent être corriger.
+L'application doit être tester sur plusieurs appareils (différents types de smartphones et tablettes) et  doit fonctionner sans problème de compatibilité ou de performance.

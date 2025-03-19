@@ -1,0 +1,22 @@
+User Story & Definition of Done (DoD) pour la fonctionnalité "Système de validation et revue de code"
+
+User Story - Système de validation et revue de code
+En tant que
+Développeur ou relecteur de code
+Je veux
+Pouvoir soumettre mon code pour validation et effectuer une revue de code sur les contributions des autres développeurs
+Afin de
+Assurer la qualité du code avant la fusion dans la branche principale
+Prévenir les erreurs et améliorer la collaboration en équipe
+Maintenir un code propre, lisible et conforme aux standards
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Definition of Done (DoD)
+Chaque contribution passe par une Pull Request (PR) avant d’être fusionnée
+La PR doit être relue et approuvée par au moins un autre développeur
+Tous les tests unitaires et d’intégration doivent être passés avec succès
+Le code doit respecter les standards de développement (conventions de nommage, indentation, bonnes pratiques...)
+Un commentaire expliquant les modifications doit être inclus dans la PR
+Aucun conflit Git ne doit être présent avant la fusion
+Une fois validée, la PR est fusionnée dans la branche principale
